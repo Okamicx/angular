@@ -1,0 +1,9 @@
+let TareaCompletada: boolean = false
+let decimal: number = 6;
+let hexadecimal: number = 0xf00d;
+let binario: number= 0b1010;
+let octal: number=0o744;
+let paquete: string="basico";
+let estados:number []=[0, 10, 20, 30];
+let estados2: Array<number>=[0, 10, 20, 30]
+let lista: any[]=[decimal,paquete,TareaCompletada];
